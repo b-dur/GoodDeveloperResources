@@ -10,3 +10,7 @@ Get badge from travis on private repos https://docs.travis-ci.com/user/status-im
 Calculate test coverage https://coveralls.io/
 
 Test
+
+testing 1
+
+adding more to history
