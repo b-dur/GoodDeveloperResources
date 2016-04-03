@@ -9,5 +9,3 @@ Get badge from travis on private repos https://docs.travis-ci.com/user/status-im
 
 Calculate test coverage https://coveralls.io/
 
-
-Testing squash commit 
